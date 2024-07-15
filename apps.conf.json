@@ -71,6 +71,12 @@
       "title": "WeRead",
       "name_zh": "微信阅读",
       "url": "https://weread.qq.com/"
+    },
+    {
+      "name": "codereview",
+      "title": "CodeReview",
+      "name_zh": "代码审计",
+      "url": "https://govuln.com/"
     }
   ]
 }
